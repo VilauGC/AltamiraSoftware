@@ -9,3 +9,6 @@ https://github.com/popaadina/eventsapi/blob/vilau_dev/src/main/java/com/app/even
 
 Aici este Filtru-ul creat pentru a intercepta toate requesturile care se fac catre API si a verifica daca au json web token-ul introdus in Header-ul de Authorization
 https://github.com/popaadina/eventsapi/blob/vilau_dev/src/main/java/com/app/eventsmanagementapi/filters/CustomAuthorizationFilter.java
+
+Pentru proiectul despre care am discutat telefonic si care am spus ca este confidential, atasez cateva functionalitati din el:
+https://github.com/VilauGC/QRCodeGenerator
