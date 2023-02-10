@@ -12,6 +12,7 @@ https://github.com/popaadina/eventsapi/blob/vilau_dev/src/main/java/com/app/even
 
 Pentru proiectul despre care am discutat telefonic si care am spus ca este confidential, atasez cateva functionalitati din el:
 https://github.com/VilauGC/QRCodeGenerator
+
 https://github.com/VilauGC/QRCodeScanner/tree/master
 
 Vezi in https://vilauweb.ro cum functioneaza QRCodeGenerator si QRCodeScanner
